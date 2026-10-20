@@ -1,7 +1,9 @@
 # Hemuppgift 1, Del A, Steg 2: Genomtänkt prompt
 
 **Repo:** https://github.com/lemmynet/lemmy
+
 **Agent** Opus 5.5 medel
+
 **Prompt** Du är en erfaren php/laravel utvecklare som ska sätta dig in i ett Rust-projekt du inte jobbat med tidigare. Analysera kodbasen i detta repo.
 
 **Svar**
