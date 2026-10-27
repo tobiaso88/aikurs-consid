@@ -23,4 +23,8 @@ Mumsa är en webbapp för att logga vad man äter och följa sitt kalori- och ma
 
 [Steg 1: Analys](hemuppgift2/del-a-steg-1.md)
 [Steg 2: Plan](hemuppgift2/del-a-steg-2.md)
-[Implementation](hemuppgift2/implementation.md)
+[Implementation](hemuppgift2/implementation.md
+
+### Hemuppgift 2, Del B
+
+[Implementation](hemuppgift2/del-b-kodgranskning.md)
