@@ -129,6 +129,6 @@ Jag bad agenten åtgärda de fel som den själv föreslig var viktigast.
 
 Ändringarna finns commitade i projektet
 
-* 08453ae Stop camera on failed start and cancel lookups when leaving scan
-* 8aaeede Validate imports, Open Food Facts data and routes against app limits
-* 1c2b23d Enforce layer boundaries between ui and data
+* [08453ae](https://github.com/tobiaso88/mumsa/commit/08453ae) Stop camera on failed start and cancel lookups when leaving scan
+* [8aaeede](https://github.com/tobiaso88/mumsa/commit/8aaeede) Validate imports, Open Food Facts data and routes against app limits
+* [1c2b23d](https://github.com/tobiaso88/mumsa/commit/1c2b23d) Enforce layer boundaries between ui and data
