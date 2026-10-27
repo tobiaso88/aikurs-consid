@@ -17,3 +17,10 @@ Analys av Lemmy (Rust), ett Reddit-liknande forum.
 Mumsa är en webbapp för att logga vad man äter och följa sitt kalori- och makrointag.
 
 - https://github.com/tobiaso88/mumsa
+
+
+### Hemuppgift 2, Del A
+
+[Steg 1: Analys](hemuppgift2/del-a-steg-1.md)
+[Steg 2: Plan](hemuppgift2/del-a-steg-2.md)
+[Implementation](hemuppgift2/implementation.md)
