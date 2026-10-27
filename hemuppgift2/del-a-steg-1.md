@@ -1,4 +1,4 @@
-# Hemuppgift 2, Del A - Steg 2
+# Hemuppgift 2, Del A - Steg 1
 
 # Kodanalys: läsbarhet, duplicering och teknisk skuld
 
