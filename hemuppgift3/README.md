@@ -1,4 +1,4 @@
-# # Hemuppgift 3, Del A
+# Hemuppgift 3, Del A
 
 ## Problemet jag analyserade
 https://github.com/laravel/framework/issues/54401
